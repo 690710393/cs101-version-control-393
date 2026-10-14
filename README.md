@@ -1,1 +1,5 @@
-# cs101-version-control-393
+# My CS Profile
+
+## About Me
+- Name: Ronnaphat
+- Major: Computer Science
