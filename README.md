@@ -5,7 +5,14 @@
 - Major: Computer Science
 
 ## My Learning Goals
-- Learn c/c++ programming
+- Learn c/c++/c# programming
 - Learn Git and GitHub
 - Build a personal website
 - Build a mini game project
+
+
+## Technology Interests
+- Artificial Intelligence
+- Game Development
+- Neutral Network
+- Face Tracking
