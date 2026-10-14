@@ -16,3 +16,9 @@
 - Game Development
 - Neutral Network
 - Face Tracking
+
+## Skills
+- Problem solving
+- c basics
+- HTML little skills
+- Teamwork
