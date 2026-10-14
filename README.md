@@ -11,12 +11,6 @@
 - Build a mini game project
 
 
-## Technology Interests
-- Artificial Intelligence
-- Game Development
-- Neutral Network
-- Face Tracking
-
 ## Skills
 - Problem solving
 - c basics
